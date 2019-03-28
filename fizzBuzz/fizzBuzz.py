@@ -31,9 +31,6 @@ def fizzbuzz(n):
 
     return rsult
 
-def fizzbuzz_numpy(n):
-
-
 time1 = time.time()
 fizzbuzz(150000)
 time2 = time.time()
