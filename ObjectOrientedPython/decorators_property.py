@@ -57,6 +57,6 @@ def main():
     emp1.fullname = "Monu Kumar"
     print(emp1)
 
-    
+
 if __name__ == '__main__':
     main()
